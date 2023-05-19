@@ -82,8 +82,8 @@ export default {
             </div>
             <div class="w-auto px-20  md:px-6">
                 <form class=" mx-auto mb-4   " method="get">
-                    <div class=" bg-orange-200 text-lg ">
-                        <h1 class="text-left px-4   py-6 text-black text-2xl font-bold ">Parte 1.- Información  Personal</h1>
+                    <div class=" bg-red-200 text-lg ">
+                        <h1 class="text-left px-4   py-6 text-black text-2xl font-bold ">INFORMACION PERSONAL</h1>
                     <div class="md:flex mb-2 px-4 py-3">
                         <div class="flex ">
                             
@@ -172,7 +172,7 @@ export default {
                
 
 
-                
+                <div class="bg-blue-200 py-2 px-5 w-full text-lg ">
                 <div class="md:flex md:items-center mb-6">
                     <div class="">
                     <label class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4" for="inline-full-name">
@@ -253,6 +253,7 @@ export default {
                     <div class="">
                     <input v-model="Marcas" class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500" id="inline-full-name" type="text" >
                     </div>
+                </div>
                 </div>
 
 
