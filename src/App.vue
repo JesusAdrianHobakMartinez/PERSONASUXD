@@ -17,11 +17,11 @@ import { RouterLink, RouterView } from 'vue-router'
       <HelloWorld msg="Formulario de personas UX" />
 
       
-      <nav class="grid grid-cols-3 divide-x text-center">
+      <nav class="grid grid-cols-1 divide-x text-center">
       
-        <RouterLink class="text-xl  bg-green-400 hover:bg-green-500 hover:text-2xl" to="/"> <strong>INICIO</strong> </RouterLink>
-        <RouterLink class=" text-xl   bg-blue-400 hover:bg-blue-500 hover:text-2xl"  to="/personaUX"> <strong>Formulario </strong> </RouterLink>
-        <RouterLink class=" text-xl   bg-red-400 hover:bg-red-500  hover:text-2xl"  to="/about"> <strong> Acerca de </strong> </RouterLink>
+        <RouterLink class="text-xl  bg-blue-500 hover:bg-blue-500 hover:text-2x2" to="/"> <strong>INICIO</strong> </RouterLink>
+        <RouterLink class=" text-xl   bg-blue-500 hover:bg-blue-500 hover:text-2x2"  to="/personaUX"> <strong>Formulario </strong> </RouterLink>
+        <RouterLink class=" text-xl   bg-blue-500 hover:bg-blue-500  hover:text-2x2"  to="/about"> <strong> Acerca de </strong> </RouterLink>
 
       </nav>
 
