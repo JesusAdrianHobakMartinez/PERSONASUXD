@@ -6,7 +6,7 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
   <header class="">
     <div class="text-center rounded-full bg-blue-300 px-4 py-6">
-    <h1 class="text-4xl font-bold  text-lime-700 "><strong>---Formulario de Personas UX</strong> </h1>
+    <h1 class="text-4xl font-bold  text-lime-700 "><strong>Formulario de Peronalidad UX</strong> </h1>
   </div><br>
   <div class=" bg-white px-4 py-4 ">
   
