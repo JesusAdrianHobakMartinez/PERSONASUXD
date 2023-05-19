@@ -74,8 +74,11 @@ export default {
 <template>
     <div class="flex ">
         <div class="w-full rounded-lg p-6 shadow-lg bg-white ">
-            <div class=" p-2 font-bold text-3xl" >
-                <h1> Formulario de Registro</h1>
+            <div class=" p-2 font-bold text-3xl text-center" >
+                <span class="box-decoration-clone bg-gradient-to-r from-indigo-600 to-pink-500 text-white px-2 ...">
+  Registra el tipo de persona<br />
+  Que eres
+</span>
             </div>
             <div class="w-auto px-20  md:px-6">
                 <form class=" mx-auto mb-4   " method="get">

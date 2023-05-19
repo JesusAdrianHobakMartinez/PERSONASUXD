@@ -5,8 +5,11 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <header class="">
-    <div class="text-center rounded-full bg-blue-300 px-4 py-6">
-    <h1 class="text-4xl font-bold  text-lime-700 "><strong>Formulario de Peronalidad UX</strong> </h1>
+    <div class="text-center rounded-full  px-8 py-9">
+      <span class="text-x4 box-decoration-clone bg-gradient-to-r from-indigo-600 to-pink-500 text-white px-9 ...">
+  Formulario de personalidad<br />
+  UX
+</span>
   </div><br>
   <div class=" bg-white px-4 py-4 ">
   
