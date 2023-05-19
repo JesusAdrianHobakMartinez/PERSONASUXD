@@ -5,8 +5,10 @@ import Personajes from "../components/PersonaUX.vue";
 <template><br>
 
 
-    <div class=" bg-purple-300 px-6  text-center">
-    <h1 class=" px-14 text-3xl py-2"> <strong> Persona UX </strong> </h1>
+    <div class=" bg-purple-500 px-6  text-center">
+    <span class="box-decoration-clone bg-gradient-to-r from-indigo-600 to-pink-500 text-white px-2 ...">
+Formulario de personalidad de personas
+</span>
 
     <Personajes />
   </div>
