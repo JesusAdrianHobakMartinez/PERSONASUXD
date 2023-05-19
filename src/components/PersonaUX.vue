@@ -80,9 +80,9 @@ export default {
   Que eres
 </span>
             </div>
-            <div class="w-auto px-20  md:px-6">
+            <div class="bg-blue-500 w-auto px-20  md:px-6">
                 <form class=" mx-auto mb-4   " method="get">
-                    <div class=" bg-red-200 text-lg ">
+                    <div class=" bg-blue-500 text-lg ">
                         <h1 class="text-left px-4   py-6 text-black text-2xl font-bold ">INFORMACION PERSONAL</h1>
                     <div class="md:flex mb-2 px-4 py-3">
                         <div class="flex ">
@@ -136,7 +136,7 @@ export default {
 
             <!-- Acerca de mi  -->
 
-                <div class="bg-blue-200 py-2 px-5 w-full text-lg ">
+                <div class="bg-blue-500 py-2 px-5 w-full text-lg ">
                     <h1 class="text-2xl font-bold text-black text-left  py-8">Parte 2.- Acerca de mi</h1>
                 <div class="flex w-full">
                     <div class="md:flex md:items-center mb-6 w-6/12 ">
@@ -172,7 +172,7 @@ export default {
                
 
 
-                <div class="bg-blue-200 py-2 px-5 w-full text-lg ">
+                <div class="bg-blue-500 py-2 px-5 w-full text-lg ">
                 <div class="md:flex md:items-center mb-6">
                     <div class="">
                     <label class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4" for="inline-full-name">
@@ -265,7 +265,7 @@ export default {
                     <div class="md:w-1/3"></div>
                     <div class="md:w-2/3">
                         <div @click="Enviar()">
-                            <button class="shadow bg-purple-500 hover:bg-purple-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded cursor-pointer ..." type="button " >
+                            <button class=" bg-indigo-700 ... shadow bg-purple-500 hover:bg-blue-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded cursor-pointer ..." type="button " >
                                 Enviar
                             </button>
                         </div>
