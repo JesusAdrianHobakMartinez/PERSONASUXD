@@ -5,7 +5,7 @@
 
 
 
-  <div class=" bg-blue-500 ...font-semibold w-full p-2 text-center bg-zinc-300 sm:px-2 sm:py-36 md:px-24 md:py-36 lg:px-24 lg:py-14">
+  <div class=" bg-blue-500 ...font-semibold w-full p-2 text-center bg-blue-300 sm:px-2 sm:py-36 md:px-24 md:py-36 lg:px-24 lg:py-14">
 
     <div class=" max-w-sm rounded overflow-hidden shadow-lg ">
   <img class="w-full" src="https://p4.wallpaperbetter.com/wallpaper/664/520/859/cat-pusheen-pusheenthecat-wallpaper-preview.jpg" alt="Sunset in the mountains">

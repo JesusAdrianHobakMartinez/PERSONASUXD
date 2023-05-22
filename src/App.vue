@@ -6,7 +6,7 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
   <header class="">
     <div class="text-center rounded-full  px-8 py-9">
-      <span class="text-x4 box-decoration-clone bg-gradient-to-r from-indigo-600 to-pink-500 text-white px-9 ...">
+      <span class="text-x4 box-decoration-clone bg-gradient-to-r from-blue-600 to-pink-500 text-white px-9 ...">
   Formulario de personalidad<br />
   UX
 </span>
